@@ -1,13 +1,13 @@
 [
     {
-        "name": "wine-9.11-staging-osx64",
+        "name": "Wine Staging.app",
         "title": "Wine-Staging 9.11 (macOS)",
         "uri": "https://github.com/Gcenx/macOS_Wine_builds/releases/download/9.11/wine-staging-9.11-osx64.tar.xz",
         "files": {
-            "wine": "Wine Staging.app/Contents/Resources/wine/bin/wine",
-            "wine64": "Wine Staging.app/Contents/Resources/wine/bin/wine64",
-            "wineserver": "Wine Staging.app/Contents/Resources/wine/bin/wineserver",
-            "wineboot": "Wine Staging.app/Contents/Resources/wine/bin/wineboot"
+            "wine": "Contents/Resources/wine/bin/wine",
+            "wine64": "Contents/Resources/wine/bin/wine64",
+            "wineserver": "Contents/Resources/wine/bin/wineserver",
+            "wineboot": "Contents/Resources/wine/bin/wineboot"
         }
     }
 ]
