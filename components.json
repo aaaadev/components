@@ -8,25 +8,7 @@
     "dxvk": [
         {
             "name": "vanilla",
-            "title": "Vanilla"
-        },
-        {
-            "name": "gplasync",
-            "title": "Gplasync",
-            "features": {
-                "env": {
-                    "DXVK_ASYNC": 1
-                }
-            }
-        },
-        {
-            "name": "async",
-            "title": "Async",
-            "features": {
-                "env": {
-                    "DXVK_ASYNC": 1
-                }
-            }
+            "title": "Vanilla (macOS)"
         }
     ]
 }
