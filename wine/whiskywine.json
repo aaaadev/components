@@ -1,13 +1,13 @@
 [
     {
-        "name": "whisky-0.2.3.3",
+        "name": "whiskywine-0.2.3.3",
         "title": "WhiskyWine 0.2.3.3",
-        "uri": "https://data.getwhisky.app/Wine/Libraries.tar.gz",
+        "uri": "https://github.com/aaaadev/WhiskyWine/releases/download/0.2.3.3/whiskywine-0.2.3.3.tar.gz",
         "files": {
-            "wine": "Wine/bin/wine64",
-            "wine64": "Wine/bin/wine64",
-            "wineserver": "Wine/bin/wineserver",
-            "wineboot": "Wine/bin/wine64 wineboot"
+            "wine": "bin/wine64",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wine64 wineboot"
         }
     }
 ]
