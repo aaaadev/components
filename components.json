@@ -3,12 +3,16 @@
         {
             "name": "wine-staging",
             "title": "Wine-Staging (macOS)"
+        },
+        {
+            "name": "whiskywine",
+            "title": "WhiskyWine"
         }
     ],
     "dxvk": [
         {
-            "name": "vanilla",
-            "title": "Vanilla (macOS)"
+            "name": "async",
+            "title": "Async (macOS)"
         }
     ]
 }
