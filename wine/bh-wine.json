@@ -1,5 +1,15 @@
 [
     {
+        "name": "bh-wine-1.2.0",
+        "title": "bh-wine 1.2.0",
+        "uri": "https://github.com/aaaadev/WhiskyWine/releases/download/bh-wine-1.2.0/bh-wine-1.2.0.tar.gz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver"
+        }
+    },
+    {
         "name": "bh-wine-gptk-1.0",
         "title": "bh-wine GPTK 1.0",
         "uri": "https://github.com/aaaadev/WhiskyWine/releases/download/bh-wine-gptk-1.0/bh-wine-gptk-1.0.tar.gz",
