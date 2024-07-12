@@ -11,6 +11,10 @@
         {
             "name": "bh-wine",
             "title": "bh-wine"
+        },
+        {
+            "name": "wine",
+            "title": "Wine"
         }
     ],
     "dxvk": [
