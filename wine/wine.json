@@ -5,7 +5,7 @@
         "uri": "https://github.com/aaaadev/WhiskyWine/releases/download/9.2-mingw/wine-9.2-mingw.tar.gz",
         "files": {
             "wine": "bin/wine",
-            "wine64": "bin/wine64",
+            "wine64": "bin/wine",
             "wineserver": "bin/wineserver"
         }
     }
