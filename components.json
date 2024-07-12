@@ -19,6 +19,10 @@
     ],
     "dxvk": [
         {
+            "name": "macos",
+            "title": "macOS"
+        },
+        {
             "name": "async",
             "title": "Async (macOS)"
         },
