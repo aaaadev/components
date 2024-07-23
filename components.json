@@ -3,6 +3,10 @@
         {
             "name": "whiskywine",
             "title": "WhiskyWine"
+        },
+        {
+            "name": "bh-wine",
+            "title": "bh-wine"
         }
     ],
     "dxvk": [
